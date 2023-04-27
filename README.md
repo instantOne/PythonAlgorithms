@@ -3,7 +3,7 @@ My solutions for Algorithms and Data structures course.
 
 
 
-[contest-32809-ru.pdf](https://github.com/instantOne/PythonAlgorithms/files/11344976/contest-32809-ru.pdf)
+<h3>[Binary Search](https://github.com/instantOne/PythonAlgorithms/files/11344976/contest-32809-ru.pdf)<h3>
 [contest-32995-ru.pdf](https://github.com/instantOne/PythonAlgorithms/files/11344979/contest-32995-ru.pdf)
 [contest-33062-ru.pdf](https://github.com/instantOne/PythonAlgorithms/files/11344980/contest-33062-ru.pdf)
 [contest-33191-ru.pdf](https://github.com/instantOne/PythonAlgorithms/files/11344981/contest-33191-ru.pdf)
